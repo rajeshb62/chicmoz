@@ -22,7 +22,7 @@ minikube start --kubernetes-version=v1.25.3 --cpus max --memory max && skaffold 
 
 ```sh
 # It will end with keeping the terminal open for the tunnel.
-./scripts/miscallaneous.sh
+./scripts/miscellaneous.sh
 ```
 
 Now you can access the explorer at http://explorer-ui.localhost and also...
